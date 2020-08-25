@@ -13,7 +13,7 @@ Movie 1 to Movie 206 – 206 movies for which ratings are provided by 4848 disti
 
 Data Considerations
 - All the users have not watched all the movies and therefore, all movies are not rated. These missing values are represented by NA.
-- Ratings are on a scale of 0 to 5 where 0 is the least rating and 10 is the best.
+- Ratings are on a scale of 0 to 5 where 0 is the least rating and 5 is the best.
 
 Analysis Task
 - Exploratory Data Analysis:
